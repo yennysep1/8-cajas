@@ -1,0 +1,40 @@
+.box{
+
+background-color: #554848;
+border: 2px solid black;
+width: 150px;
+height: 150px;
+margin-bottom: 5px;
+
+}
+
+.caja2 {
+
+	width: 500px;
+	height: 160px;
+	background-color: #554848;
+	margin-bottom: 10px;
+	border: 2px solid black; 
+	padding: 10px;
+	
+	}
+
+.subcaja{
+	
+	
+	display: inline-block;
+	border:2px solid black;
+	width: 150px;
+	height: 150px;
+	margin-right: 10px;
+	
+}
+
+
+.caja3, .caja4 {
+
+	display: inline-block;
+	margin: 0 20px 20px 0;
+}
+
+
